@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0d1117,60:0f766e,100:2dd4bf&text=Juan%20Hoyos&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Senior%20Cloud%20%26%20Platform%20Engineer&descAlignY=60&descSize=18" alt="Juan Hoyos" width="100%"/>
+<img src="./banner.svg" alt="Juan Hoyos, Senior Cloud & Platform Engineer" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=2DD4BF&center=true&vCenter=true&width=620&lines=I+build+the+platforms+engineers+ship+on.;Azure+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+CI%2FCD;Now+building+infrastructure+for+AI%2FML+systems." alt="Typing intro"/>
 
@@ -9,8 +9,6 @@
   <a href="https://www.linkedin.com/in/hoyosjuan"><img src="https://img.shields.io/badge/LinkedIn-hoyosjuan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
   <a href="mailto:juan.hoyosu@outlook.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-2dd4bf?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0d1117" alt="Email"/></a>
 </p>
-
-<img src="https://img.shields.io/badge/📍%20Cali,%20Colombia-Open%20to%20remote%20(US%20time%20zones)-0f766e?style=flat-square&labelColor=0d1117" alt="Location"/>
 
 </div>
 
