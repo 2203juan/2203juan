@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1013"/>
+      <stop offset="1" stop-color="#0d1a1c"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f766e"/>
+      <stop offset="1" stop-color="#2dd4bf"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#2dd4bf" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <path d="M0 215 C 220 175, 420 250, 640 212 S 1020 170, 1200 205 V260 H0Z" fill="url(#wave)" opacity="0.35"/>
+  <path d="M0 235 C 260 205, 480 262, 720 232 S 1050 205, 1200 228 V260 H0Z" fill="url(#wave)" opacity="0.7"/>
+  <g font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="15" fill="#2dd4bf" letter-spacing="2">
+    <circle cx="74" cy="62" r="5" fill="#2dd4bf"/>
+    <text x="88" y="67">OPEN TO REMOTE ROLES · US TIME ZONES · CALI, COLOMBIA</text>
+  </g>
+  <text x="68" y="132" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="58" font-weight="700" fill="#f1f5f9">Juan Hoyos</text>
+  <text x="70" y="172" font-family="'Segoe UI',Inter,Helvetica,Arial,sans-serif" font-size="24" font-weight="500" fill="#2dd4bf">Senior Cloud &amp; Platform Engineer · Infrastructure for AI/ML</text>
+  <g font-family="'JetBrains Mono','SFMono-Regular',Menlo,Consolas,monospace" font-size="14" fill="#94a3b8">
+    <rect x="860" y="44" width="290" height="132" rx="12" fill="#0b1013" stroke="#1f2a2e"/>
+    <text x="884" y="74" fill="#64748b">$ platform --status</text>
+    <text x="884" y="102"><tspan fill="#2dd4bf">✓</tspan> azure · aks · istio</text>
+    <text x="884" y="126"><tspan fill="#2dd4bf">✓</tspan> terraform · helm · argo</text>
+    <text x="884" y="150"><tspan fill="#2dd4bf">✓</tspan> langgraph · rag · llms</text>
+  </g>
+</svg>
