@@ -16,7 +16,7 @@
 
 ### 👋 About me
 
-I'm a **Senior Cloud / Platform Engineer (SRE)** with **4+ years** designing and operating the enterprise Azure and Kubernetes platform behind **GM Financial's** customer-facing products: payments, authentication, account creation and vehicle financing.
+I'm a **Senior Cloud / Platform Engineer (SRE)** with **5+ years** in cloud and DevOps engineering. Since 2022 I've been designing and operating the enterprise Azure and Kubernetes platform behind **GM Financial's** customer-facing products: payments, authentication, account creation and vehicle financing.
 
 I like building the paved road: internal developer platforms, reusable infrastructure and deployment pipelines that let product teams ship safely without thinking about the plumbing. In parallel I'm finishing an **M.Sc. in Artificial Intelligence & Data Science**, building agentic LLM systems (RAG, LangGraph) with the same engineering discipline.
 
